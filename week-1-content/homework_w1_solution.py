@@ -30,10 +30,6 @@ print('Sum with initial value: ',sum_list_1)
 std_list_1 = np.std(candidates)
 print( "Standard Deviation of list_1: ", std_list_1)
 
-#initialize array
-A = np.array([[2, 3], [6, 5]])
-
-
 a= np.array(matrix_1)
 std_matrix_1 = np.std(a)
 print( "Standard Deviation of list_1: ", std_matrix_1)
